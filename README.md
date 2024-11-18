@@ -1,2 +1,2 @@
 # Pratica-I
-Primeira atividade prática
+Primeira atividade prática realizada na semana.
