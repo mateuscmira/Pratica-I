@@ -1,3 +1,4 @@
+CREATE DATABASE pratica_mira;
 USE pratica_mira;
 
 CREATE TABLE clientes(
